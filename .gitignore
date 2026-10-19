@@ -1,0 +1,10 @@
+.env
+/vendor/
+/uploads/*
+!/uploads/.gitkeep
+/reports/*
+!/reports/.gitkeep
+.phpunit.cache/
+
+/storage/sessions/*
+!/storage/sessions/.htaccess

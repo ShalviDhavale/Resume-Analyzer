@@ -1,0 +1,9 @@
+{
+  "name": "careerai/resume-analyzer",
+  "description": "Privacy-conscious AI resume analysis and career guidance for students",
+  "type": "project",
+  "require": {
+    "php": ">=8.1"
+  },
+  "config": { "sort-packages": true, "optimize-autoloader": true }
+}
